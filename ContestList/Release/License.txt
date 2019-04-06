@@ -1,0 +1,7 @@
+这里是许可条款：
+	使用MFC类库开发，虽然没什么可以许可的。
+	源码会发布在我的GitHub -> https://github.com/dzzhyk
+	以及欢迎访问我的博客   -> https://blog.csdn.net/weixin_43826242
+以上
+dzzhyk
+2019.4.6
